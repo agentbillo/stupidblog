@@ -7,6 +7,10 @@ Essentially:
  4. enable apache server side includes to parse .shtml files
  5. run this script
 
+This project contains an unaltered copy of Markdown.pl so it can run
+"out of the box." If you have any special Markdown implementations you
+use, just replace it or alter the script to use a different one.
+
 Directories needed
 
     blogdir: this is where the .txt (Markdown) files should live
